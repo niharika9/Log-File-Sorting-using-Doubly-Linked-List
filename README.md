@@ -6,7 +6,7 @@ To Compile : make warmup1 or make
  
  
  Run :
- ./warmup1 sort <Filepath> or <Filename> 
+ ./warmup1 sort Filepath or Filename 
  
  
 
