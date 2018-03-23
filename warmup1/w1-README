@@ -1,0 +1,39 @@
+Documentation for Warmup Assignment 1
+=====================================
+
++-------+
+| BUILD |
++-------+
+
+make warmup1
+
++---------+
+| GRADING |
++---------+
+
+(A) Doubly-linked Circular List : 40 out of 40 pts
+
+(B.1) Sort (file) : 30 out of 30 pts
+(B.2) Sort (stdin) : 30 out of 30 pts
+
+Missing required section(s) in README file : All sections completed.
+Cannot compile : Code compiles properly.
+Compiler warnings : There are no warnings.
+"make clean" : make clean works fine.
+Segmentation faults : There were no segmentation faults.
+Separate compilation : Separate compilation satifies. I have provided my402list.c and warmup1.c. They compile seperately.
+Malformed input : Malformed input messages are printed properly with line numbers and field description.
+Too slow : Program run fast.
+Bad commandline : Error message and usage information provided with bad commandline inputs.
+Did not use My402List and My402ListElem to implement "sort" in (B) : Used the My402List to both store and Sort the list of transactions.
+
++------+
+| BUGS |
++------+
+
+There are no apparent bugs in the code.
+
++------------------+
+| OTHER (Optional) |
++------------------+
+
