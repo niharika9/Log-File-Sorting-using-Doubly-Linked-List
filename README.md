@@ -2,8 +2,7 @@
 Log File Sorting Using Doubly-linked Circular List in C
 
 
-To Compile :
- make warmup1 or make 
+To Compile : make warmup1 or make 
  
  
  Run :
